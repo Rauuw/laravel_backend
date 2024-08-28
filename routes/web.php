@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\ProductoController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers;
 
@@ -20,5 +21,13 @@ Route::get('/categorias_index', [Controllers\CategoriaController::class, 'index'
 Route::delete('/categorias_delete/{id}', [Controllers\CategoriaController::class, 'destroy'])->name('categorias_delete');
 Route::get('/categorias_edit/{id}', [Controllers\CategoriaController::class, 'edit'])->name('categorias_edit');
 Route::put('/categorias_update/{id}', [Controllers\CategoriaController::class, 'update'])->name('categorias_update');
+
+Route::prefix('api')->group(function () {
+    Route::get('productos', [ProductoController::class, 'index']);
+    Route::get('productos/{id}', [ProductoController::class, 'show']);
+    Route::post('productos', [ProductoController::class, 'store']);
+    Route::put('productos/{id}', [ProductoController::class, 'update']);
+    Route::delete('productos/{id}', [ProductoController::class, 'destroy']);
+});
 
 // Route::view('/home', 'home')->name('home');
