@@ -76,7 +76,7 @@
             </div>
             <div class="col-md-4">
                 <label for="imagen" class="form-label">Imagen</label>
-                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*">
+                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*" required>
                 <div class="invalid-feedback">
                     Introduzca una imagen por favor!
                 </div>
