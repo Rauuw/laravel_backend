@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    @extends('layouts.app')
+    @extends('layouts_productos.app')
 
     @section('content')
         <div class="container mt-4">
