@@ -22,6 +22,7 @@
                         <th scope="col">ID</th>
                         <th scope="col">Nombre</th>
                         <th scope="col">Descripción</th>
+                        <th scope="col">Imagen</th>
                         <th scope="col">Categoría</th>
                         <th scope="col">Precio</th>
                         <th scope="col">Cantidad</th>
@@ -34,6 +35,9 @@
                             <th scope="row">{{ $producto->id }}</th>
                             <td>{{ $producto->nombre }}</td>
                             <td>{{ $producto->descripcion }}</td>
+                            <td>
+                                <img src="{{ asset('storage/images/'.$producto->imagen) }}" width="50" height="50" class="img-thumbnail" alt="Imagen del producto">
+                            </td>
                             <td>{{ $producto->categoria->nombre }}</td>
                             <td>{{ $producto->precio }}</td>
                             <td>{{ $producto->cantidad }}</td>
