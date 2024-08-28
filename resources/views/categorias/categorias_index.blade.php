@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Listado de Categorías</title>
+    <title>Lista de categorías</title>
     <!-- Agregar Bootstrap CSS si no está en el layout principal -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
-    @extends('layouts.app')
+    @extends('layouts_productos.app')
 
     @section('content')
         <div class="container mt-4">

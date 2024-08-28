@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <title>Document</title>
+    <title>Crear producto</title>
 </head>
 
 <body>
 
-    @extends('layouts.app')
+    @extends('layouts_productos.app')
 
     @section('content')
         <form class="row g-3 needs-validation" novalidate action="{{ route('productos_store') }}" method="POST"  enctype="multipart/form-data">
@@ -76,7 +76,7 @@
             </div>
             <div class="col-md-4">
                 <label for="imagen" class="form-label">Imagen</label>
-                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*">
+                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*" required>
                 <div class="invalid-feedback">
                     Introduzca una imagen por favor!
                 </div>
