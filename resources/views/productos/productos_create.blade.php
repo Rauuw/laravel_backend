@@ -15,7 +15,7 @@
     @extends('layouts.app')
 
     @section('content')
-        <form class="row g-3 needs-validation" novalidate action="{{ route('productos_store') }}" method="POST">
+        <form class="row g-3 needs-validation" novalidate action="{{ route('productos_store') }}" method="POST"  enctype="multipart/form-data">
             @csrf
             <div class="col-md-6">
                 <label for="nombre" class="form-label">Nombre del producto</label>
@@ -69,6 +69,16 @@
                 <input type="number" class="form-control" id="cantidad" placeholder="10" name="cantidad" required>
                 <div class="invalid-feedback">
                     Introduzca una cantidad por favor!
+                </div>
+                <div class="valid-feedback">
+                    Campo válido
+                </div>
+            </div>
+            <div class="col-md-4">
+                <label for="imagen" class="form-label">Imagen</label>
+                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*">
+                <div class="invalid-feedback">
+                    Introduzca una imagen por favor!
                 </div>
                 <div class="valid-feedback">
                     Campo válido

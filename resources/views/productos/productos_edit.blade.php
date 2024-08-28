@@ -14,7 +14,7 @@
     @extends('layouts.app')
 
     @section('content')
-        <form class="row g-3 needs-validation" novalidate action="{{ route('productos_update', $producto) }}" method="POST">
+        <form class="row g-3 needs-validation" novalidate action="{{ route('productos_update', $producto) }}" method="POST"  enctype="multipart/form-data">
             @csrf
             @method('PUT')
             <div class="col-md-6">
@@ -72,7 +72,21 @@
                     Campo válido
                 </div>
             </div>
-
+            <div class="col-md-6">
+                <label for="imagen_actual" class="form-label">Imagen actual</label>
+                <br>
+                <img src="{{ asset('storage/images/'.$producto->imagen) }}" width="100" height="100" class="d-block mx-auto" alt="Imagen del producto">
+            </div>
+            <div class="col-md-6">
+                <label for="imagen" class="form-label">Imagen</label>
+                <input type="file" class="form-control" id="imagen" name="imagen" accept="image/*">
+                <div class="invalid-feedback">
+                    Introduzca una imagen por favor!
+                </div>
+                <div class="valid-feedback">
+                    Campo válido
+                </div>
+            </div>
             <div class="col-12">
                 <button class="btn btn-primary" type="submit">Editar producto</button>
             </div>
