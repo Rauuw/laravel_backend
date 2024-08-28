@@ -4,12 +4,14 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Producto;
+use App\Models\Categoria;
 
 class ProductoController extends Controller
 {
     public function create()
     {
-        return view('productos.productos_create');
+        $categorias = Categoria::all();
+        return view('productos.productos_create', compact('categorias'));
     }
 
     public function store(Request $request)
@@ -20,6 +22,7 @@ class ProductoController extends Controller
             'descripcion' => 'required|max:255',
             'precio' => 'required',
             'cantidad' => 'required',
+            'categoria_id' => 'required',
         ]);
 
         Producto::create($validation);
@@ -43,7 +46,8 @@ class ProductoController extends Controller
     public function edit($id)
     {
         $producto = Producto::find($id);
-        return view('productos.productos_edit', compact('producto'));
+        $categorias = Categoria::all();
+        return view('productos.productos_edit', compact('producto', 'categorias'));
     }
 
     public function update(Request $request, $id)
@@ -53,6 +57,7 @@ class ProductoController extends Controller
             'descripcion' => 'required|max:255',
             'precio' => 'required',
             'cantidad' => 'required',
+            'categoria_id' => 'required',
         ]);
         $producto = Producto::find($id);
         $producto->update($validation);

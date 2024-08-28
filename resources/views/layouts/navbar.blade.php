@@ -15,8 +15,8 @@
                         Categorías
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Crear</a></li>
-                        <li><a class="dropdown-item" href="#">Listar</a></li>
+                        <li><a class="dropdown-item" href="{{route('categorias_create')}}">Crear</a></li>
+                        <li><a class="dropdown-item" href="{{route('categorias_index')}}">Listar</a></li>
                     </ul>
                 </li>
 

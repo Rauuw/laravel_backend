@@ -38,6 +38,21 @@
                 </div>
             </div>
             <div class="col-md-6">
+                <label for="categoria" class="form-label">Categoría</label>
+                <select class="form-select" id="categoria" name="categoria_id" required>
+                    <option value="">Seleccione una categoría</option>
+                    @foreach ($categorias as $categoria)
+                        <option value="{{ $categoria->id }}" {{ $categoria->id == $producto->categoria_id ? 'selected' : '' }}>{{ $categoria->nombre }}</option>
+                    @endforeach
+                </select>
+                <div class="invalid-feedback">
+                    Seleccione una categoría por favor!
+                </div>
+                <div class="valid-feedback">
+                    Campo válido
+                </div>
+            </div>
+            <div class="col-md-6">
                 <label for="precio" class="form-label">Precio</label>
                 <input type="number" step="0.01" class="form-control" id="precio" placeholder="20.50" name="precio" value="{{ $producto->precio }}" required>
                 <div class="invalid-feedback">

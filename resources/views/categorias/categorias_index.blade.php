@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Listado de Productos</title>
+    <title>Listado de Categorías</title>
     <!-- Agregar Bootstrap CSS si no está en el layout principal -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -15,33 +14,27 @@
 
     @section('content')
         <div class="container mt-4">
-            <h1 class="text-center">Listado de Productos</h1>
+            <h1 class="text-center">Listado de Categorías</h1>
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
                         <th scope="col">ID</th>
                         <th scope="col">Nombre</th>
                         <th scope="col">Descripción</th>
-                        <th scope="col">Categoría</th>
-                        <th scope="col">Precio</th>
-                        <th scope="col">Cantidad</th>
                         <th scope="col">Acciones</th>
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach ($productos as $producto)
+                    @foreach ($categorias as $categoria)
                         <tr>
-                            <th scope="row">{{ $producto->id }}</th>
-                            <td>{{ $producto->nombre }}</td>
-                            <td>{{ $producto->descripcion }}</td>
-                            <td>{{ $producto->categoria->nombre }}</td>
-                            <td>{{ $producto->precio }}</td>
-                            <td>{{ $producto->cantidad }}</td>
+                            <th scope="row">{{ $categoria->id }}</th>
+                            <td>{{ $categoria->nombre }}</td>
+                            <td>{{ $categoria->descripcion }}</td>
                             <td>
-                                <a href="{{ route('productos_edit', ['id' => $producto->id]) }}"
+                                <a href="{{ route('categorias_edit', ['id' => $categoria->id]) }}"
                                     class="btn btn-primary btn-sm">Editar
                                 </a>
-                                <form action="{{ route('productos_delete', ['id' => $producto->id]) }}" method="POST"
+                                <form action="{{ route('categorias_delete', ['id' => $categoria->id]) }}" method="POST"
                                     style="display:inline;">
                                     @csrf
                                     @method('DELETE')
@@ -82,3 +75,4 @@
 </body>
 
 </html>
+
