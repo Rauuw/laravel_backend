@@ -1,0 +1,107 @@
+                                                        Usuario: LKSHM
+                                                        Proc.: 09-09-2025
+                                CONSULTA POSICIÓN NETA
+Banco:    BANCO BISA
+Marca:    VISA
+Producto: TODO
+Del:      30-04-2025
+Al:       30-04-2025
+
+I. Posición Neta Doméstica (Transacciones otros Miembros Grupo Linkser)
+                                        A PAGAR      Bs.     215,656.79                
+                                                     $US           0.00                
+
+II. Posición Neta Nacional
+                                        A COBRAR     Bs.    -407,562.92                
+                                                     $US           0.00                
+
+III. Posición Neta Internacional (Transacciones Exterior)
+                                        A COBRAR     $US     -20,466.71                
+
+---------------------------------------------------------------------------
+
+                                                        Usuario: LKSHM
+                                                        Proc.: 09-09-2025
+                                CONSULTA POSICIÓN NETA
+Banco:    BANCO ECONOMICO
+Marca:    VISA
+Producto: TODO
+Del:      30-04-2025
+Al:       30-04-2025
+
+I. Posición Neta Doméstica (Transacciones otros Miembros Grupo Linkser)
+                                        A COBRAR     Bs.  -1,141,402.93                
+                                        A COBRAR     $US      -3,698.28                
+
+II. Posición Neta Nacional
+                                        A COBRAR     Bs.  -1,847,458.77                
+                                        A COBRAR     $US      -3,991.03                
+
+III. Posición Neta Internacional (Transacciones Exterior)
+                                        A COBRAR     $US     -22,988.96                
+
+---------------------------------------------------------------------------
+
+                                                        Usuario: LKSHM
+                                                        Proc.: 09-09-2025
+                                CONSULTA POSICIÓN NETA
+Banco:    BANCO GANADERO
+Marca:    VISA
+Producto: TODO
+Del:      30-04-2025
+Al:       30-04-2025
+
+I. Posición Neta Doméstica (Transacciones otros Miembros Grupo Linkser)
+                                        A PAGAR      Bs.     386,428.00                
+                                        A PAGAR      $US         992.02                
+
+II. Posición Neta Nacional
+                                        A COBRAR     Bs.  -1,400,256.02                
+                                        A COBRAR     $US      -1,260.78                
+
+III. Posición Neta Internacional (Transacciones Exterior)
+                                        A COBRAR     $US     -19,254.79                
+
+---------------------------------------------------------------------------
+
+                                                        Usuario: LKSHM
+                                                        Proc.: 09-09-2025
+                                CONSULTA POSICIÓN NETA
+Banco:    BANCO UNION
+Marca:    VISA
+Producto: TODO
+Del:      30-04-2025
+Al:       30-04-2025
+
+I. Posición Neta Doméstica (Transacciones otros Miembros Grupo Linkser)
+                                        A PAGAR      Bs.     531,344.58                
+                                        A PAGAR      $US         979.11                
+
+II. Posición Neta Nacional
+                                        A COBRAR     Bs.    -230,534.06                
+                                        A COBRAR     $US        -256.08                
+
+III. Posición Neta Internacional (Transacciones Exterior)
+                                        A COBRAR     $US     -18,887.37                
+
+---------------------------------------------------------------------------
+
+                                                        Usuario: LKSHM
+                                                        Proc.: 09-09-2025
+                                CONSULTA POSICIÓN NETA
+Banco:    COOP SAN MARTIN DE PORRES
+Marca:    VISA
+Producto: TODO
+Del:      30-04-2025
+Al:       30-04-2025
+
+I. Posición Neta Doméstica (Transacciones otros Miembros Grupo Linkser)
+                                        A COBRAR     Bs.     -14,491.50                
+                                                     $US           0.00                
+
+II. Posición Neta Nacional
+                                        A COBRAR     Bs.        -350.00                
+                                                     $US           0.00                
+
+III. Posición Neta Internacional (Transacciones Exterior)
+                                        A COBRAR     $US        -291.55                

@@ -1,0 +1,156 @@
+0Linkser S.A.                        RESUMEN DE POSICION NETA DOMESTICA (BS Y U$)   VISA    -    TODO                RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    1
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  ECONOMICO
+1Moneda   :  Bolivianos
+1                                                                                                                                   
+1COMPRAS                        4,115       971,721.84          8,687.53      12,725     2,097,780.70        17,713.47    17,032.92 
+1AVANCE DE EFECTIVO               238       170,640.82          2,832.84         261       184,720.82         2,990.62    14,237.78 
+1TRANSACC. NO FINANCIERAS          59             0.00            202.37          52             0.00           178.36        24.01 
+1RETENCION LINKSER                                                                                            7,581.24     7,581.24 
+1COBRANZA(FEE)                               11,722.74              0.00                         0.00             0.00    11,722.74 
+1                                                                                                                                   
+1                                                                                        Neto Moneda BOLIVIANOS   :  1,143,017.45   
+1                                                                                        Cant Moneda BOLIVIANOS   :     17,450      
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                            7         1,075.25              9.56          14         4,783.77            46.25     3,671.83 
+1RETENCION LINKSER                                                                                               19.80        19.80 
+1COBRANZA(FEE)                                    9.56              0.00                         0.00             0.00         9.56 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :      3,681.39   
+1                                                                                        Cant Moneda DOLARES      :         21      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS        1,143,017.45
+1                                                                                      Neto Banco     DOLARES               3,681.39
+1                                                                                      Neto Banco     BOL. (LNK)            7,581.24
+1                                                                                      Neto Banco     $us (LNK)                19.80
+1                                                                                      Transacciones Banco BOLIVIANOS         17,450
+1                                                                                      Transacciones Banco DOLARES                21
+1                                                                                      Total Transacciones Banco              17,471
+0Linkser S.A.                        RESUMEN DE POSICION NETA DOMESTICA (BS Y U$)   VISA    -    TODO                RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    2
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  GANADERO
+1Moneda   :  Bolivianos
+1                                                                                                                                   
+1COMPRAS                       10,496     1,974,377.49         17,024.63       8,967     1,641,574.96        13,927.06    29,704.96-
+1AVANCE DE EFECTIVO               467       249,767.80          3,717.42         399       185,547.80         3,250.94    64,686.48-
+1TRANSACC. NO FINANCIERAS          56             0.00            192.08          59             0.00           202.37        10.29-
+1RETENCION LINKSER                                                                                            5,963.62     5,963.62 
+1COBRANZA(FEE)                               20,934.13              0.00                         0.00             0.00    20,934.13 
+1                                                                                                                                   
+1                                                                                        Neto Moneda BOLIVIANOS   :    373,467.60-  
+1                                                                                        Cant Moneda BOLIVIANOS   :     20,444      
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                           14         3,930.48             37.75          12         2,912.00            26.40     1,007.13-
+1TRANSACC. NO FINANCIERAS          15             0.00              7.50                         0.00             0.00         7.50 
+1RETENCION LINKSER                                                                                               11.29        11.29 
+1COBRANZA(FEE)                                   45.25              0.00                         0.00             0.00        45.25 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :        954.38-  
+1                                                                                        Cant Moneda DOLARES      :         41      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS         373,467.60-
+1                                                                                      Neto Banco     DOLARES                954.38-
+1                                                                                      Neto Banco     BOL. (LNK)            5,963.62
+1                                                                                      Neto Banco     $us (LNK)                11.29
+1                                                                                      Transacciones Banco BOLIVIANOS         20,444
+1                                                                                      Transacciones Banco DOLARES                41
+1                                                                                      Total Transacciones Banco              20,485
+0Linkser S.A.                        RESUMEN DE POSICION NETA DOMESTICA (BS Y U$)   VISA    -    TODO                RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    2
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  BISA
+1Moneda   :  Bolivianos
+1                                                                                                                                   
+1COMPRAS                        5,006       776,063.05          6,630.03       2,386       561,882.65         5,402.57    12,952.94-
+1AVANCE DE EFECTIVO               202       190,170.00          2,046.57         241       184,110.00         2,314.11     5,792.46-
+1TRANSACC. NO FINANCIERAS          59             0.00            202.37          72             0.00           246.96        44.59-
+1RETENCION LINKSER                                                                                            2,313.96     2,313.96 
+1COBRANZA(FEE)                                8,878.97              0.00                         0.00             0.00     8,878.97 
+1                                                                                                                                   
+1                                                                                        Neto Moneda BOLIVIANOS   :    209,911.02-  
+1                                                                                        Cant Moneda BOLIVIANOS   :      7,966      
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                            5         1,698.81             16.43                         0.00             0.00     1,682.38-
+1TRANSACC. NO FINANCIERAS           1             0.00              0.50                         0.00             0.00         0.50 
+1COBRANZA(FEE)                                   16.93              0.00                         0.00             0.00        16.93 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :      1,664.95-  
+1                                                                                        Cant Moneda DOLARES      :          6      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS         209,911.02-
+1                                                                                      Neto Banco     DOLARES              1,664.95-
+1                                                                                      Neto Banco     BOL. (LNK)            2,313.96
+1                                                                                      Neto Banco     $us (LNK)                 0.00
+1                                                                                      Transacciones Banco BOLIVIANOS          7,966
+1                                                                                      Transacciones Banco DOLARES                 6
+1                                                                                      Total Transacciones Banco               7,972
+0Linkser S.A.                        RESUMEN DE POSICION NETA DOMESTICA (BS Y U$)   VISA    -    TODO                RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    3
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  UNION
+1Moneda   :  Bolivianos
+1                                                                                                                                   
+1COMPRAS                        5,022       695,037.17          5,868.93         562       116,576.01         1,172.33    73,764.56-
+1AVANCE DE EFECTIVO               239       132,830.00          1,639.54         220       174,710.00         1,509.20    41,749.66 
+1TRANSACC. NO FINANCIERAS          68             0.00            233.24          44             0.00           150.92        82.32 
+1RETENCION LINKSER                                                                                              502.01       502.01 
+1COBRANZA(FEE)                                7,741.71              0.00                         0.00             0.00     7,741.71 
+1                                                                                                                                   
+1                                                                                        Neto Moneda BOLIVIANOS   :    524,190.87-  
+1                                                                                        Cant Moneda BOLIVIANOS   :      6,155      
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                            3         1,616.83             14.52           3           625.60             5.61       982.32-
+1TRANSACC. NO FINANCIERAS           3             0.00              1.50          19             0.00             9.50         8.00-
+1RETENCION LINKSER                                                                                                2.40         2.40 
+1COBRANZA(FEE)                                   16.02              0.00                         0.00             0.00        16.02 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :        974.30-  
+1                                                                                        Cant Moneda DOLARES      :         28      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS         524,190.87-
+1                                                                                      Neto Banco     DOLARES                974.30-
+1                                                                                      Neto Banco     BOL. (LNK)              502.01
+1                                                                                      Neto Banco     $us (LNK)                 2.40
+1                                                                                      Transacciones Banco BOLIVIANOS          6,155
+1                                                                                      Transacciones Banco DOLARES                28
+1                                                                                      Total Transacciones Banco               6,183
+0Linkser S.A.                        RESUMEN DE POSICION NETA DOMESTICA (BS Y U$)   VISA    -    TODO                RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    4
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  COOP SAN MARTIN DE PORRES
+1Moneda   :  Bolivianos
+1                                                                                                                                   
+1AVANCE DE EFECTIVO                               0.00              0.00          25        14,320.00           171.50    14,491.50 
+1TRANSACC. NO FINANCIERAS                         0.00              0.00          15             0.00            51.45        51.45-
+1                                                                                                                                   
+1                                                                                        Neto Moneda BOLIVIANOS   :     14,440.05   
+1                                                                                        Cant Moneda BOLIVIANOS   :         40      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS           14,440.05
+1                                                                                      Neto Banco     DOLARES                   0.00
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)                 0.00
+1                                                                                      Transacciones Banco BOLIVIANOS             40
+1                                                                                      Transacciones Banco DOLARES                 0
+1                                                                                      Total Transacciones Banco                  40

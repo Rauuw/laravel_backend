@@ -1,0 +1,112 @@
+0Linkser S.A.                        RESUMEN DE POSICION NETA INTERNACIONAL   VISA    -    TODO                      RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    1
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  ECONOMICO
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                                          0.00              0.00         466        20,720.94           299.01    20,421.93 
+1AVANCE DE EFECTIVO                               0.00              0.00          14         2,268.02             0.00     2,268.02 
+1RETENCION LINKSER                                                                                              299.01       299.01 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :     22,689.95   
+1                                                                                        Cant Moneda DOLARES      :        480      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS                0.00
+1                                                                                      Neto Banco     DOLARES              22,689.95
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)               299.01
+1                                                                                      Transacciones Banco BOLIVIANOS              0
+1                                                                                      Transacciones Banco DOLARES               480
+1                                                                                      Total Transacciones Banco                 480
+0Linkser S.A.                        RESUMEN DE POSICION NETA INTERNACIONAL   VISA    -    TODO                      RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    2
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  GANADERO
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                                          0.00              0.00         266        12,486.59           161.22    12,325.37 
+1AVANCE DE EFECTIVO                               0.00              0.00          50         6,768.20             0.00     6,768.20 
+1RETENCION LINKSER                                                                                              161.22       161.22 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :     19,093.57   
+1                                                                                        Cant Moneda DOLARES      :        316      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS                0.00
+1                                                                                      Neto Banco     DOLARES              19,093.57
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)               161.22
+1                                                                                      Transacciones Banco BOLIVIANOS              0
+1                                                                                      Transacciones Banco DOLARES               316
+1                                                                                      Total Transacciones Banco                 316
+0Linkser S.A.                        RESUMEN DE POSICION NETA INTERNACIONAL   VISA    -    TODO                      RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    2
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  BISA
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                                          0.00              0.00         147         6,433.11             0.00     6,433.11 
+1AVANCE DE EFECTIVO                               0.00              0.00         100        14,033.60             0.00    14,033.60 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :     20,466.71   
+1                                                                                        Cant Moneda DOLARES      :        247      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS                0.00
+1                                                                                      Neto Banco     DOLARES              20,466.71
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)                 0.00
+1                                                                                      Transacciones Banco BOLIVIANOS              0
+1                                                                                      Transacciones Banco DOLARES               247
+1                                                                                      Total Transacciones Banco                 247
+0Linkser S.A.                        RESUMEN DE POSICION NETA INTERNACIONAL   VISA    -    TODO                      RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    3
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  UNION
+1Moneda   :  Dolares
+1                                                                                                                                   
+1COMPRAS                                          0.00              0.00          84         2,497.82            46.49     2,451.33 
+1AVANCE DE EFECTIVO                               0.00              0.00         175        16,389.55             0.00    16,389.55 
+1RETENCION LINKSER                                                                                               46.49        46.49 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :     18,840.88   
+1                                                                                        Cant Moneda DOLARES      :        259      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS                0.00
+1                                                                                      Neto Banco     DOLARES              18,840.88
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)                46.49
+1                                                                                      Transacciones Banco BOLIVIANOS              0
+1                                                                                      Transacciones Banco DOLARES               259
+1                                                                                      Total Transacciones Banco                 259
+0Linkser S.A.                        RESUMEN DE POSICION NETA INTERNACIONAL   VISA    -    TODO                      RESUMEN DE POSI
+1Santa Cruz                          ==================================================================                    Por:LKSHM
+1Fecha Proceso : 05.Sep/2025               Fecha Posicion Neta  30.04/25           Tipo Proc.:                             Pag:    4
+1                                             Consumo Entrante (Emisor)                      Consumo Saliente(Receptor)             
+1   Nombre                      Cant          Monto             Comisión       Cant          Monto            Comisión   Neto       
+1====================================================================================================================================
+1Banco    :  COOP SAN MARTIN DE PORRES
+1Moneda   :  Dolares
+1                                                                                                                                   
+1AVANCE DE EFECTIVO                               0.00              0.00           1           291.55             0.00       291.55 
+1                                                                                                                                   
+1                                                                                        Neto Moneda DOLARES      :        291.55   
+1                                                                                        Cant Moneda DOLARES      :          1      
+1                                                                                                                                   
+1                                                                                      Neto Banco     BOLIVIANOS                0.00
+1                                                                                      Neto Banco     DOLARES                 291.55
+1                                                                                      Neto Banco     BOL. (LNK)                0.00
+1                                                                                      Neto Banco     $us (LNK)                 0.00
+1                                                                                      Transacciones Banco BOLIVIANOS              0
+1                                                                                      Transacciones Banco DOLARES                 1
+1                                                                                      Total Transacciones Banco                   1
